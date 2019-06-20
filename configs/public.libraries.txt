@@ -5,3 +5,4 @@ libsdsprpc.so
 libqvrservice_client.so
 
 libOpenCL.so
+libZgshen.so
